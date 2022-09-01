@@ -1,0 +1,40 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #323131;
+}
+
+header {
+    margin: 2rem;
+    display: flex;
+    padding: 14px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header ul {
+    display: flex;
+    /* position: relative; */
+}
+
+header h1{
+    /* display: inline; */
+    font-family: 'Roboto Slab', serif;
+    font-size: 25.6px;
+    color: #f1e8d3;
+}
+
+header li {
+    /* position: relative; */
+    list-style: none;
+    /* display: inline-block; */
+    font-size: 16px;
+    justify-content: space-evenly;
+    margin: 14px;
+    padding: 0;
+    color: #bf9868;
+}
+
+.intro {
+    margin: 20% 20% 30% 20%;
+}
